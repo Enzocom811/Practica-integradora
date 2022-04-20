@@ -1,0 +1,33 @@
+html {
+    scroll-behavior: smooth
+}
+
+h3 {
+    display: inline;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+main {
+    border-top: 1px solid rgb(127, 123, 123);
+    border-bottom: 1px solid rgb(127, 123, 123);
+}
+
+nav {
+    margin-top: 10px;
+}
+
+
+footer {
+    margin: 0;
+    
+}
+
+form {
+    border-bottom: 1px solid rgb(127, 123, 123);
+    margin: 0;
+    padding: 10px;
+}
+
